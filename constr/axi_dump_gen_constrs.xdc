@@ -1,0 +1,1 @@
+set_false_path -to [get_cells -hierarchical -filter {NAME =~ *bit_syncer_fdre_sv*/*meta_0_inst}]
