@@ -36,7 +36,6 @@ entity fifo_out_async_xpm is
         M_AXIS_TVALID   :   out     std_logic                                       ;
         M_AXIS_TLAST    :   out     std_logic                                       ;
         M_AXIS_TREADY   :   in      std_logic                                        
-
     );
 end fifo_out_async_xpm;
 
